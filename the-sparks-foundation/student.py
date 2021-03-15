@@ -1,3 +1,11 @@
+"""
+(GRIP) at The Sparks Foundation
+Author: Vivek Chaurasia
+Task: Predict the percentage of an student based on the no. of study hours.
+
+"""
+
+
 #Importing libraries
 import numpy as np
 import pandas as pd
